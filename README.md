@@ -2,4 +2,7 @@
 
 An implementation of Quadtree Nearest Neighbor algorithm
 ## Pseudocode
-![image info](./img/psudo.png)
+![pseudo](./img/psudo.png)
+
+## Quad Tree visualization
+<img src="./img/quadtree.png" alt="alt text" width="500" height="500">
